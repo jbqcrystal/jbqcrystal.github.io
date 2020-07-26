@@ -73,7 +73,7 @@ footer-text: 最后的乌托邦
 #
 
 # 输入Disqus shortname，即可添加评论区
-disqus:  #shortname
+disqus: 纤尘惋 #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
